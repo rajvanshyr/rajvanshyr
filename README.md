@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Rags 👋
 
-<!--
-**rajvanshyr/rajvanshyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI Product Manager at Ford and founder of [EvalFix](https://evalfix.com) — 
+an agent evaluation platform that automatically diagnoses and fixes LLM failures.
 
-Here are some ideas to get you started:
+## What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **EvalFix**: Automated eval debugging for LLM agents — prompt fixes, retrieval 
+  tuning, tool repair, workflow optimization
+- **Enterprise AI at Ford**: Building AI/automation products at scale
+- **DialX**: Voice AI for auto shops (prev. startup)
+
+## About Me
+
+- 🤖 AI PM @ Ford Motor Company
+- 🚀 Founder @ EvalFix — YC applicant, open-source on GitHub
+- 🧠 Prev: Tesla, National Instruments
+- 🎓 UT Austin alum
+- 📍 New York City
+
+## Tech I work with
+
+`LLMs` `LangSmith` `RAG` `Agent Frameworks` `Python` `Prompt Engineering` `DSPy`
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-raghavrajvanshy-blue)](https://linkedin.com/in/raghavrajvanshy)
+[![GitHub](https://img.shields.io/badge/GitHub-rajvanshyr-black)](https://github.com/rajvanshyr)
