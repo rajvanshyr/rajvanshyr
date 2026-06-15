@@ -14,7 +14,7 @@ an agent evaluation platform that automatically diagnoses and fixes LLM failures
 
 - 🤖 AI PM @ Ford Motor Company
 - 🚀 Founder @ EvalFix 
-- 🧠 Prev: Tesla, National Instruments
+- 🧠 Prev: Tesla, National Instruments, DialX
 - 🎓 UT Austin alum
 - 📍 New York City
 
