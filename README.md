@@ -5,12 +5,12 @@ an agent evaluation platform that automatically diagnoses and fixes LLM failures
 
 ## What I work on
 
-AI agent evals: behavioral regression detection, semantic output diffing, and trajectory-level checks for single- and multi-agent systems
-GitHub-native tooling: Apps + Actions that run evals in CI and open verified fix PRs with evidence
-Agent dev workflows: structuring agents, handling tools, logging, and eval gating before things ship
-RAG setups: simple chains → agentic RAG → hybrid search
-Production observability: trace mirroring, synthetic eval datasets, multi-turn test cases
-Voice & conversational agents: real-world ops like scheduling, intake, and customer-facing flows
+- **AI agent evals:** behavioral regression detection, semantic output diffing, and trajectory-level checks for single- and multi-agent systems
+- **GitHub-native tooling:** Apps + Actions that run evals in CI and open verified fix PRs with evidence
+- **Agent dev workflows:** structuring agents, handling tools, logging, and eval gating before things ship
+- **RAG setups:** simple chains → agentic RAG → hybrid search
+- **Production observability:** trace mirroring, synthetic eval datasets, multi-turn test cases
+- **Voice & conversational agents:** real-world ops like scheduling, intake, and customer-facing flows
 
 ## About Me
 
