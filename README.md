@@ -32,5 +32,5 @@ an agent evaluation platform that automatically diagnoses and fixes LLM failures
 
 ## Writing
 - 📝 [Supercharge your Automated Customer support with Large Language models.](https://medium.com/@rajvanshyr/supercharge-your-automated-customer-support-with-large-language-models-f0743e089ea2)
-- 📝 [Stop Writing Custom Tools: Why You Should Build an MCP Server Instead](https://medium.com/@rajvanshyr/stop-writing-custom-tools-why-you-should-build-an-mcp-server-instead-ed1d19176a85) — one-line description of what it covers
+- 📝 [Stop Writing Custom Tools: Why You Should Build an MCP Server Instead](https://medium.com/@rajvanshyr/stop-writing-custom-tools-why-you-should-build-an-mcp-server-instead-ed1d19176a85)
 - 📝 [The Real Reason Your AI Product Isn’t Getting Better](https://medium.com/@rajvanshyr/the-real-reason-your-ai-product-isnt-getting-better-0d73dbe125a3)
