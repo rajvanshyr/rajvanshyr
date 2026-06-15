@@ -1,4 +1,4 @@
-# Hi, I'm Rags 👋
+# Hi, I'm Raghav 👋
 
 I'm an AI Product Manager at Ford and founder of [EvalFix](https://evalfix.com) — 
 an agent evaluation platform that automatically diagnoses and fixes LLM failures.
@@ -32,5 +32,5 @@ an agent evaluation platform that automatically diagnoses and fixes LLM failures
 
 ## Writing
 - 📝 [Supercharge your Automated Customer support with Large Language models.](https://medium.com/@rajvanshyr/supercharge-your-automated-customer-support-with-large-language-models-f0743e089ea2)
-- 📝 [Title of your second article](https://medium.com/@yourhandle/article-2) — one-line description of what it covers
-- 📝 [Title of your third article](https://medium.com/@yourhandle/article-3) — one-line description of what it covers
+- 📝 [Stop Writing Custom Tools: Why You Should Build an MCP Server Instead](https://medium.com/@rajvanshyr/stop-writing-custom-tools-why-you-should-build-an-mcp-server-instead-ed1d19176a85) — one-line description of what it covers
+- 📝 [The Real Reason Your AI Product Isn’t Getting Better](https://medium.com/@rajvanshyr/the-real-reason-your-ai-product-isnt-getting-better-0d73dbe125a3)
