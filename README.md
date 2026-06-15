@@ -13,7 +13,7 @@ an agent evaluation platform that automatically diagnoses and fixes LLM failures
 ## About Me
 
 - 🤖 AI PM @ Ford Motor Company
-- 🚀 Founder @ EvalFix — YC applicant, open-source on GitHub
+- 🚀 Founder @ EvalFix 
 - 🧠 Prev: Tesla, National Instruments
 - 🎓 UT Austin alum
 - 📍 New York City
