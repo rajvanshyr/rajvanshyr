@@ -1,6 +1,6 @@
 # Hi, I'm Raghav 👋
 
-I'm an AI Product Manager at Ford and founder of [EvalFix](https://evalfix.com) — 
+I'm an AI Builder and Product Manager at Ford and founder of [EvalFix](https://evalfix.com) — 
 an agent evaluation platform that automatically diagnoses and fixes LLM failures.
 
 ## What I work on
