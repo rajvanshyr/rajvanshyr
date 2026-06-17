@@ -15,10 +15,10 @@ an agent evaluation platform that automatically diagnoses and fixes LLM failures
 ## About Me
 
 - 🤖 AI PM @ Ford Motor Company
-- 🚀 Founder @ EvalFix 
+- 🚀 Founder @ EvalFix
 - 🧠 Prev: Tesla, National Instruments, [DialX](https://dialx.xyz/)
 - 🎓 UT Austin alum
-- 📍 New York City
+- 📍 New York City/Bay Area
 
 ## Tech I work with
 
